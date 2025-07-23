@@ -1,4 +1,13 @@
-# 0.1.0 (2025-07-23)
+# [0.2.0](https://github.com/smcnab1/odin-css-exercises/compare/v0.1.0...v0.2.0) (2025-07-23)
+
+
+### Features
+
+* Add 01-cascade-fix solution ([a65d806](https://github.com/smcnab1/odin-css-exercises/commit/a65d806bdddfa4cf5d173659730d17a6d303db27))
+
+
+
+# [0.1.0](https://github.com/smcnab1/odin-css-exercises/compare/03f4e594a8e037994c303457af76965729c86c67...v0.1.0) (2025-07-23)
 
 
 ### Bug Fixes
